@@ -1,5 +1,4 @@
 #string methods in python
-my_string = "ST"
 class string_methods_applications:
 
     def capitalize_string(my_string):
