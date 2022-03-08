@@ -1,5 +1,5 @@
 #string methods in python
-class string_methods_application:
+class string_methods_applications:
 
     def capitalize_string(my_string):
         return my_string.capitalize()
@@ -19,5 +19,6 @@ class string_methods_application:
     def endswith_string(my_string):
         my_string = "Software Testing."
         return my_string.endswith(".")
+
     
 
